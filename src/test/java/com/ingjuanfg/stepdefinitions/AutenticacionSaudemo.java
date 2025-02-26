@@ -15,7 +15,7 @@ import static com.ingjuanfg.userinterfaces.HomePage.HOME_TITLE;
 import static net.serenitybdd.screenplay.actors.OnStage.theActorCalled;
 
 @ExtendWith(SerenityJUnit5Extension.class)
-public class AutenticacionEfiagro {
+public class AutenticacionSaudemo {
 
     @Test
     @DisplayName("Login en Saucedemo con Usuario Standard")
